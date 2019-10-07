@@ -1,0 +1,24 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/stajim",
+    "prod_uri":"mysql://root:@localhost/stajim",
+    "fb_url":"https://www.facebook.com/ozgur.burak.ozdmir",
+    "tw_url":"https://twitter.com/",
+    "gh_url": "https://github.com/",
+    "blog_name": "Ozgur Burak Ozdemir",
+    "tag_line": "Yaz Staj Projem 2019 ",
+    "gmail-user":"Sizin Mail Adresiniz",
+    "gmail-password":"Sizin Mail Şifreniz",
+    "about_text": "Merhaba, Ben Ozgur Burak.",
+    "no_of_posts": 3,
+    "login_image":"login.svg",
+    "admin_user":"admin",
+    "admin_password": "admin",
+    "upload_location":"C:\\Users\\Ozgur Burak\\Desktop\\Flask-Blog\\static\\img"
+
+
+  }
+
+}
