@@ -1,2 +1,2 @@
-# Stajim-Flask-Blog
+Flask-Blog
 Personal Blog Project With Flask
